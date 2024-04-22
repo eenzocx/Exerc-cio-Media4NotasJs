@@ -37,4 +37,4 @@ else
     resultado = "Em recuperação";
 }
 
-alert ("Você ficou com média " (media:notas1) . resultado: "Resultado")
+alert ("Você ficou com média " + media + " " + resultado );
